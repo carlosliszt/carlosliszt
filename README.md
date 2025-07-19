@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Carlos.</h1>
 
-<h3 align="center">Não adentre a boa noite apenas com ternura, a velhice queima e clama ao fim do dia.</h3>
-<h3 align="center">Fúria, fúria contra a luz que já não fulgura.</h3>
+<h3 align="center">E a ti, meu pai, rezo eu, que da triste altura,</h3>
+<h3 align="center">A mim pragueis e benzeis, com sua lágrima bravia.</h3>
 <p align="center">- Dylan Thomas</p>
 
 ##
