@@ -1,5 +1,9 @@
 <h2 align="center">Olá! Eu sou o Carlos 🤟</h2>
 
+<p align="center"><i>"E a ti, meu pai, rezo eu, que da triste altura,<br>
+A mim pragueis e benzeis, com sua lágrima bravia."</i><br>
+— Dylan Thomas</p>
+
 <img align="right" height="300" src="assets/penta.gif" alt="pentagram"/>
 
 <p align="left">𖤐 Desenvolvedor Back-End</p>
@@ -43,7 +47,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosliszt&layout=compact&theme=dracula&card_width=360" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=carlosliszt&show_icons=true&theme=dracula" height="160"/>
+  <img src="https://github-readme-stats-kkcarlinns-projects.vercel.app/api?username=carlosliszt&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="160"/>
 </div>
 
 <div align="center">
