@@ -1,60 +1,55 @@
-<h1 align="center">Olá! Eu sou o Carlos.</h1>
+<h2 align="center">Olá! Eu sou o Carlos 🤟</h2>
 
-<h3 align="center">E a ti, meu pai, rezo eu, que da triste altura,</h3>
-<h3 align="center">A mim pragueis e benzeis, com sua lágrima bravia.</h3>
-<p align="center">- Dylan Thomas</p>
+<img align="right" height="250" src="assets/penta.gif" alt="pentagram"/>
 
-##
+<p align="left">𖤐 Desenvolvedor Back-End</p>
+<p align="left">𖤐 Docker • Linux • Sistemas Distribuídos</p>
+<p align="left">𖤐 PT-BR / ENG</p>
+
+<img src="https://64.media.tumblr.com/f253a5cfca46784bcbe53048c833b4d5/a59bc8ddf2ecf3d4-43/s540x810/197e0bc549e99bec883a01bd81e8e7a6f1016760.gifv" height="30"/>
 
 <div align="center">
-  <img src="https://github-readme-stats-kkcarlinns-projects.vercel.app/api?username=carlosliszt&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats-kkcarlinns-projects.vercel.app/api/top-langs?username=carlosliszt&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+  <img src="assets/slayer.jpeg" height="120" align="left"/>
+
+  <div align="left">
+    <h6>⚒️ Tecnologias que uso:</h6>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java"/>
+    <img width="12"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp"/>
+    <img width="12"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker"/>
+    <img width="12"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux"/>
+    <img width="12"/>
+    <br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql"/>
+    <img width="12"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb"/>
+    <img width="12"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis"/>
+    <img width="12"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel"/>
+  </div>
 </div>
 
-###
+<br clear="all"><br>
 
-<img align="right" height="150" src="https://media1.tenor.com/m/fbM0u3ZApY8AAAAd/numetal-wes.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosliszt&layout=compact&theme=dracula&card_width=360" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=carlosliszt&show_icons=true&theme=dracula" height="160"/>
 </div>
 
-###
-
-<div align="left">
-  <a href="https://instagram.com/carlos.liszt" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+<div align="center">
+  <a href="https://instagram.com/carlos.osbourne" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
+  </a>
+  <a href="https://www.linkedin.com/in/carlosmmo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
   </a>
 </div>
 
-###
+---
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/kkcarlinn/kkcarlinn/output/snake.svg" alt="Snake animation" />
-
-###
+<div align="center">
+  <img src="https://raw.githubusercontent.com/carlosliszt/carlosliszt/output/snake.svg" alt="Snake animation"/>
+</div>
