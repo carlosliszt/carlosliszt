@@ -1,6 +1,6 @@
 <h2 align="center">Olá! Eu sou o Carlos 🤟</h2>
 
-<img align="right" height="250" src="assets/penta.gif" alt="pentagram"/>
+<img align="right" height="300" src="assets/penta.gif" alt="pentagram"/>
 
 <p align="left">𖤐 Desenvolvedor Back-End</p>
 <p align="left">𖤐 Docker • Linux • Sistemas Distribuídos</p>
@@ -40,12 +40,8 @@
 </div>
 
 <div align="center">
-  <a href="https://instagram.com/carlos.osbourne" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
-  </a>
-  <a href="https://www.linkedin.com/in/carlosmmo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
-  </a>
+  <a href="https://instagram.com/carlos.osbourne" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/></a>
+  <a href="https://www.linkedin.com/in/carlosmmo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/></a>
 </div>
 
 ---
