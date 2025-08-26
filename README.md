@@ -1,7 +1,5 @@
 <h2 align="center">Olá! Eu sou o Carlos 🤟</h2>
 
-<img src="https://64.media.tumblr.com/f253a5cfca46784bcbe53048c833b4d5/a59bc8ddf2ecf3d4-43/s540x810/197e0bc549e99bec883a01bd81e8e7a6f1016760.gifv" height="400"/>
-
 <img align="right" height="300" src="assets/penta.gif" alt="pentagram"/>
 
 <p align="left">𖤐 Desenvolvedor Back-End</p>
