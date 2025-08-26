@@ -1,8 +1,10 @@
-<h2 align="center">Olá! Eu sou o Carlos 🤟</h2>
+<h2 align="left">Olá! Eu sou o Carlos 🤟</h2>
 
 <p align="center"><i>"E a ti, meu pai, rezo eu, que da triste altura,<br>
 A mim pragueis e benzeis, com sua lágrima bravia."</i><br>
 — Dylan Thomas</p>
+
+#
 
 <img align="right" height="300" src="assets/penta.gif" alt="pentagram"/>
 
