@@ -1,8 +1,8 @@
 <h2 align="left">Olá! Eu sou o Carlos 🤟</h2>
 
-<p align="center"><i>"E a ti, meu pai, rezo eu, que da triste altura,<br>
-A mim pragueis e benzeis, com sua lágrima bravia."</i><br>
-— Dylan Thomas</p>
+<p align="center"><i>"Eu sou o Incriado de Deus, o que não pode fugir à carne e à memória,<br>
+Eu sou como velho barco longe do mar, cheio de lamentações no vazio do bojo..."</i><br>
+— Vinicius de Moraes</p>
 
 #
 
