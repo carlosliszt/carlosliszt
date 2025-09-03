@@ -8,9 +8,9 @@ Eu sou como velho barco longe do mar, cheio de lamentações no vazio do bojo...
 
 <img align="right" height="300" src="assets/penta.gif" alt="pentagram"/>
 
-<p align="left">𖤐 Desenvolvedor Back-End</p>
-<p align="left">𖤐 Docker • Linux • Sistemas Distribuídos</p>
-<p align="left">𖤐 PT-BR / ENG</p>
+<p align="left">⛧ Desenvolvedor Back-End</p>
+<p align="left">⛧ Docker • Linux • Sistemas Distribuídos</p>
+<p align="left">⛧ PT-BR / ENG</p>
 
 <img src="https://64.media.tumblr.com/f253a5cfca46784bcbe53048c833b4d5/a59bc8ddf2ecf3d4-43/s540x810/197e0bc549e99bec883a01bd81e8e7a6f1016760.gifv" height="38"/>
 
