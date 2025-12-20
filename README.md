@@ -66,7 +66,7 @@ Eu sou como velho barco longe do mar, cheio de lamentações no vazio do bojo...
 </div>
 
 <div align="center">
-  <a href="https://instagram.com/carlos.samsa" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/></a>
+  <a href="https://instagram.com/carlos.sabbath" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/></a>
   <a href="https://www.linkedin.com/in/carlosmmo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/></a>
 </div>
 
