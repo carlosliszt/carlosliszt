@@ -1,8 +1,8 @@
-<h2 align="left">Olá! Eu sou o Carlos 🤟</h2>
+<h2 align="left">Olá! Eu sou o Carlos!</h2>
 
-<p align="center"><i>"Eu sou o Incriado de Deus, o que não pode fugir à carne e à memória,<br>
-Eu sou como velho barco longe do mar, cheio de lamentações no vazio do bojo..."</i><br>
-— Vinicius de Moraes</p>
+<p align="left"><i>"Eu sou como o velho barco que guarda no seu bojo o eterno ruído do mar batendo<br>
+No entanto como está longe o mar e como é dura a terra sob mim..."</i><br>
+- O Incriado, Vinicius de Moraes</p>
 
 #
 
@@ -61,8 +61,8 @@ Eu sou como velho barco longe do mar, cheio de lamentações no vazio do bojo...
 <br clear="all"><br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosliszt&layout=compact&theme=dracula&card_width=360" height="160"/>
-  <img src="https://github-readme-stats-kkcarlinns-projects.vercel.app/api?username=carlosliszt&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="160"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=carlosliszt&layout=compact&langs_count=6&theme=dark_github" height="160"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=carlosliszt&show_icons=true&include_all_commits=true&theme=dark_github" height="160"/>
 </div>
 
 <div align="center">
